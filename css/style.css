@@ -1,0 +1,17 @@
+
+body {
+    background-color: #ffde59;
+}
+
+header{
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    margin-block: 160px;
+    width: 300px;
+    height: 220px;
+    margin-left: 190px;
+    justify-content: center;
+}
