@@ -1,12 +1,19 @@
 
 body {
-    background-image: url("/images/espaco.jpg");
-
+    background-color: #04365e;
 }
 
 header{
     justify-content: center;
 }
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+
 
 img {
     display: flex;
@@ -14,8 +21,21 @@ img {
     height: 420px;
     position:absolute;
     top: 150px;
-    left: 550px;
+    left: 568px;
     justify-content: center;
+}
+
+.borda{
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.centro{
+    position: absolute;
+    left: 660px;
+    top: 180px;
 }
 
 .botom{
@@ -23,10 +43,7 @@ img {
     background-color:rgba(31, 26, 23, 255);
     color: whitesmoke;
     position: absolute;
-    left: 680px;
+    left: 690px;
     top: 460px;
-    border-radius: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
     cursor: pointer;
 }
