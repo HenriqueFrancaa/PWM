@@ -1,6 +1,6 @@
 
 body {
-    background-color: #04365e;
+    background-color: #045495;
 }
 
 header{
@@ -43,7 +43,7 @@ img {
     background-color:rgba(31, 26, 23, 255);
     color: whitesmoke;
     position: absolute;
-    left: 690px;
-    top: 460px;
+    left: 680px;
+    top: 560px;
     cursor: pointer;
 }
